@@ -1,2 +1,7 @@
-# humletekst
-Humletekst er mumletekst til øltørstige designere og udviklere
+# Humletekst
+
+💡 **Et sjovt lille humle-mumletekst-projekt**
+
+**_OBS!_** Ikke noget vigtigt - bare sjov og spas;-)
+
+---
